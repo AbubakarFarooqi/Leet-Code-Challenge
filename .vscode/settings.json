@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "utility": "cpp",
+        "format": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "locale": "cpp",
+        "xlocale": "cpp"
+    }
+}
