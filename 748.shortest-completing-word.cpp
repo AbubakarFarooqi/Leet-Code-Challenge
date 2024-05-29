@@ -4,6 +4,7 @@
  * [748] Shortest Completing Word
  */
 
+
 // @lc code=start
 class Solution {
 public:
@@ -13,7 +14,7 @@ public:
         {
             char c = (char)tolower(licensePlate[i]);
             if((licensePlate[i] >=48 && licensePlate[i]<=57) || licensePlate[i] == ' ')
-                continue;
+                continue;                   
             if (m.find(c) != m.end()){
                 int count = m[c];
                 count++;
