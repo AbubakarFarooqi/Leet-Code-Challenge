@@ -8,6 +8,9 @@
         "vector": "cpp",
         "xstring": "cpp",
         "locale": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp"
     }
 }
